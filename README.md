@@ -1,12 +1,12 @@
 # Marlin 3D Printer Firmware
 
-This is a modified version of the Marlin 2.0 Firmware from early 2020 which includes support for BLTouch.
+BLTouch Enabled Firmware targeted for Creality 1.1.5 (8-bit/ATMega1284p) motherboard.  
 
-LCD Menus / SD Card support are disabled due to memory constraints discovered when enabling BLTouch.
+NO SD CARD SUPPORT + NO LCD MENU SYSTEM - you'll need to use Octoprint or something similar to drive the printer.
 
 If you use this firmware, be sure your Z Offsets are good before printing so as to not damage your printer bed.
 
-This works with my Ender 5 - you may want to check with Creality to determine if a newer version is available 
+I use this as-is on my Ender 5 Pro.
 
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
