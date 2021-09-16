@@ -2,7 +2,7 @@
 
 BLTouch Enabled Firmware targeted for Creality 1.1.5 (8-bit/ATMega1284p) motherboard.  
 
-NO SD CARD SUPPORT + NO LCD MENU SYSTEM due to the limited size of teh ATMega1284p. You'll need to use Octoprint or something similar to drive the printer.
+NO SD CARD SUPPORT + NO LCD MENU SYSTEM due to the limited size of the ATMega1284p. You'll need to use Octoprint or something similar to drive the printer.
 
 If you use this firmware, be sure your Z Offsets are good before printing so as to not damage your printer bed.
 
