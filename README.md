@@ -8,6 +8,8 @@ If you use this firmware, be sure your Z Offsets are good before printing so as 
 
 I use this as-is on my Ender 5 Pro.
 
+--------------------------
+
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
